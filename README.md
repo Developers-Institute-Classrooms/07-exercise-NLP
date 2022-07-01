@@ -1,5 +1,5 @@
 
-# 07-exercise-Feature_Selection
+# 07-natural language processing (NLP)
 
 In this exercise, you will learn the basic of natural language processing NLP. You will use [Spacy](https://spacy.io/) libraries for this task. Before doing exercise, please make sure that you have completed the 
  [Spacy course](https://course.spacy.io/en/) the following chapters: 
